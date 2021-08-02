@@ -1,4 +1,4 @@
-# password-generate-easy
+# password-create-generate
 
 # https Link
 https://github.com/prabin4456/password-generate-easy.git
