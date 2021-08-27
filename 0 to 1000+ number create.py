@@ -4,5 +4,5 @@ while a<=5000:
     a += 1
     
 else:
-    print("'ok")
+    print("ok")
     
